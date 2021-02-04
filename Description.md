@@ -1,7 +1,4 @@
-# DataStructure-C
-Data Structure Course Experiment 
-
-
+# 数据结构与算法实验
 
 ## 1、熟悉C++环境，C语言语法及数据（规律算法）
 
@@ -16,3 +13,4 @@ Data Structure Course Experiment
 ## 6、矩阵的压缩存储：稀疏矩阵的转置
 
 ## 7、二叉树的建立、遍历和应用
+
