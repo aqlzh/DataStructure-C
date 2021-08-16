@@ -21,3 +21,15 @@ Data Structure Course Experiment
 
 ## C/C++  Algorithm
 refer to DataStructure-Java
+
+:rocket: DataStructure-c/c++  for leetcode and  The Bule cup  Solutions  :airplane:
+
+ 开源练习题库
+
+### 索引
+
+:triangular_flag_on_post:
+
+- [洛谷](#洛谷)
+- [leetcode](#Leetcode)
+- [TheBuleCup](#TheBuleCup)
