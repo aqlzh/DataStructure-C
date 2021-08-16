@@ -1,8 +1,8 @@
-# DataStructure-C/ C++
+# DataStructure-C/ C++   :fire:
 Data Structure Course Experiment 
 
 
-## 一、Course Experiment 
+## 一、Course Experiment   :rainbow:
 
 ### 1、熟悉C++环境，C语言语法及数据（规律算法）
 
@@ -20,8 +20,8 @@ Data Structure Course Experiment
 
 ---
 
-## 二、C/C++  Algorithm
-refer to DataStructure-Java
+## 二、C/C++  Algorithm   :dart:
+refer to DataStructure-Java  [跳转链接](https://github.com/aqlzh/DataStructure-Java)
 
 :rocket: DataStructure-c/c++  for leetcode and  The Bule cup  Solutions  :airplane:
 
