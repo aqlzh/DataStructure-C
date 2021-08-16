@@ -2,7 +2,7 @@
 Data Structure Course Experiment 
 
 
-## Course Experiment 
+## 一、Course Experiment 
 
 ### 1、熟悉C++环境，C语言语法及数据（规律算法）
 
@@ -18,8 +18,9 @@ Data Structure Course Experiment
 
 ### 7、二叉树的建立、遍历和应用
 
+---
 
-## C/C++  Algorithm
+## 二、C/C++  Algorithm
 refer to DataStructure-Java
 
 :rocket: DataStructure-c/c++  for leetcode and  The Bule cup  Solutions  :airplane:
