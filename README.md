@@ -1,8 +1,8 @@
-# DataStructure-C/ C++
+# DataStructure-C/ C++   :fire:
 Data Structure Course Experiment 
 
 
-## Course Experiment 
+## 一、Course Experiment   :rainbow:
 
 ### 1、熟悉C++环境，C语言语法及数据（规律算法）
 
@@ -18,6 +18,77 @@ Data Structure Course Experiment
 
 ### 7、二叉树的建立、遍历和应用
 
+---
 
-## C/C++  Algorithm
-refer to DataStructure-Java
+## 二、C/C++  Algorithm   :dart:
+refer to DataStructure-Java  [跳转链接](https://github.com/aqlzh/DataStructure-Java)
+
+:rocket: DataStructure-c/c++  for leetcode and  The Bule cup  Solutions  :airplane:
+
+ 开源练习题库
+
+### 索引
+
+:triangular_flag_on_post:
+
+- [洛谷](#洛谷)
+- [leetcode](#Leetcode)
+- [TheBuleCup](#TheBuleCup)
+
+
+# 洛谷
+
+
+- **学习**
+  - [顺序结构](#顺序结构)
+  - [分支结构](#分支结构)
+  - [循环结构](#循环结构)
+  - [数组](#数组)
+  - [字符串](#字符串)
+  - [函数与结构体](#函数与结构体)
+  - [暴力枚举](#暴力枚举)
+  
+  ## 学习
+  
+  ###  顺序结构
+
+|  #  |      题名     |   题解  |   难度  | 标签                   
+|-----|----------------|:---------------:|:--------:|:-------------:
+|1001 |[	A+B Problem ](https://www.luogu.com.cn/problem/P1001)|[C++]() |简单|  入门
+
+
+
+# leetcode 
+
+- **学习**
+  - [数组 & 字符串](#数组--字符串)
+  - [队列 & 栈](#队列--栈)
+  - [链表](#链表)
+  - [哈希表](#哈希表)
+  - [二分查找](#二分查找)
+  - [二叉树](#二叉树)
+  - [二叉搜索树](#二叉搜索树)
+  - [N叉树](#n叉树)
+  - [前缀树](#前缀树)
+  - [决策树](#决策树)
+  - [递归 I](#递归-i)
+  - [递归 II](#递归-ii)
+  - [并发](#并发)
+  - [脚本](#脚本)
+  - [数据库](#数据库)
+  - [排序算法](#排序算法)
+  - [搜索算法](#搜索算法)
+- **面试**
+  - [常见面试题](#常见面试题)
+    - [简单问题](#简单问题)
+    - [中等问题](#中等问题)
+    - [困难问题](#困难问题)
+  - [字节跳动](#字节跳动)
+  - [腾讯](#腾讯)
+  - [猿题库](#猿题库)
+  - [搜狗](#搜狗)
+  - [美团点评](#美团点评)
+  - [跟谁学](#跟谁学)
+
+
+- [↑↑↑ 返回顶部 ↑↑↑](#索引)
