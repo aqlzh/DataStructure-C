@@ -32,9 +32,9 @@ refer to DataStructure-Java  [跳转链接](https://github.com/aqlzh/DataStructu
 :triangular_flag_on_post:
 
 - [洛谷](#洛谷)
-- [leetcode](#Leetcode)
+- [ACM-ICPC/CCPC](#ACM-ICPC/CCPC)
 - [TheBuleCup](#TheBuleCup)
-- [ACM-ICPC/CCPC]
+
 
 
 # 洛谷
@@ -57,6 +57,8 @@ refer to DataStructure-Java  [跳转链接](https://github.com/aqlzh/DataStructu
 |-----|----------------|:---------------:|:--------:|:-------------:
 |1001 |[	A+B Problem ](https://www.luogu.com.cn/problem/P1001)|[C++]() |简单|  入门
 
+# ACM-ICPC/CCPC
 
+# TheBuleCup
 
 - [↑↑↑ 返回顶部 ↑↑↑](#索引)
