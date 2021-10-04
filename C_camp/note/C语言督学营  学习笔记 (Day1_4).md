@@ -39,7 +39,7 @@
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/8682fd4e2a3749f0a474f28e2e44787f.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUXVhbnR1bVlvdQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
 - 调试窗口设置  （常用的调式窗口：==内存与监视与调用堆栈==）
-# Day02  03  数据类型
+# Day02  03  04数据类型
 
 ## 数据类型与关键字
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2cbfd0a14cc444c18ae590f8d57ff727.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAUXVhbnR1bVlvdQ==,size_17,color_FFFFFF,t_70,g_se,x_16)
@@ -82,7 +82,7 @@
 
 
 - 为什么内存数据要用十六进制去看，就是非常高效，两个字符就可以表示一个字节  ,0x 00 7D FD 04  地址是4个字节,1 个字节就是8位，你们其为4*8=32 位
- 
+
 ==编程==：
 1 字节 1 byte =8 bit
 1Kb = 1024 字节
@@ -92,7 +92,7 @@
 ==实际生产==：
 磁盘 1G =1000 000 000 字节
 
- 
+
 ## 进程地址空间分布
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/ca39d669cc174213818e6faeb3065aa4.png)
