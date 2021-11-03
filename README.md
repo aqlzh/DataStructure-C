@@ -4,7 +4,7 @@ Data Structure Course Experiment
 
 ## 一、Course Experiment   :rainbow:
 
-### 1、熟悉C++环境，C语言语法及数据（规律算法）
+### 1、熟悉C++环境，C语言语法及数据（ 规律算法）
 
 ###  2、顺序表的定义及其基本操作
 
