@@ -25,7 +25,7 @@ refer to DataStructure-Java  [跳转链接](https://github.com/aqlzh/DataStructu
 
 :rocket: DataStructure-c/c++  for leetcode and  The Bule cup  Solutions  :airplane:
 
- 开源练习题库
+  开源练习题库
 
 ### 索引
 
