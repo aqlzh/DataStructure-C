@@ -1,4 +1,4 @@
-# DataStructure-C/ C++  :fire:
+# DataStructure-C/ C++ :fire:
 Data Structure Course Experiment 
 
 ## 一、Course Experiment  :rainbow:
