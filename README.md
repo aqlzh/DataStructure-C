@@ -1,7 +1,7 @@
 # DataStructure-C/ C++ :fire:
 Data Structure Course Experiment 
 
-## 一、Course Experiment  :rainbow: :rainbow:
+## 一、Course Experiment :rainbow: :rainbow:
 
 ### 1、熟悉C++环境，C语言语法及数据（规律算法）
 
